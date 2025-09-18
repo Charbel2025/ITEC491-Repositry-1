@@ -1,5 +1,1 @@
-HEAD
-
-Conflict demonstration
-
-conflict-branch
+First Collab
